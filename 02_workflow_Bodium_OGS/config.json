@@ -1,0 +1,162 @@
+{
+    "CropFiles": "BodiumOGS/Bodium/crops/",
+    "FeedBreed": {
+        "dist_bool": false,
+        "dist_rate": 0.5,
+        "k_fom": 6.48e-06,
+        "op": 1.16e-15,
+        "osom": 0.007,
+        "pop": 5.8e-14,
+        "process_bool": false,
+        "somo1": 0.17,
+        "somo2": 0.7
+    },
+    "FomPools": [
+        {
+            "Name": "Fom_Initial",
+            "cn_ratio": 10,
+            "eta": 0.55,
+            "ini": 0,
+            "k_fom": 6.48e-06
+        },
+        {
+            "Name": "Fom_Manure",
+            "cn_ratio": 12,
+            "eta": 0.3,
+            "ini": 0,
+            "k_fom": 6.48e-06
+        },
+        {
+            "Name": "Fom_Roots",
+            "cn_ratio": 20,
+            "eta": 1,
+            "ini": 0,
+            "k_fom": 6.48e-06
+        },
+        {
+            "Name": "Fom_Micro",
+            "cn_ratio": 8,
+            "eta": 1,
+            "ini": 0,
+            "k_fom": 6.48e-06
+        },
+        {
+            "Name": "Fom_Bio",
+            "cn_ratio": 12,
+            "eta": 0.45,
+            "ini": 0,
+            "k_fom": 6.48e-06
+        }
+    ],
+    "Groundwater": false,
+    "ManFile": "BodiumOGS/Bodium/ww_mono.json",
+    "ManualManagement": {
+        "cn_var": 12,
+        "crop": "barley",
+        "crop_mono": true,
+        "crop_rot": [
+            {
+                "crop": "potatoes"
+            },
+            {
+                "crop": "winterwheat"
+            },
+            {
+                "crop": "barley"
+            },
+            {
+                "crop": "sugarbeet"
+            }
+        ],
+        "ferti": 0.5,
+        "org_fert": 0.5,
+        "prec_var": 0
+    },
+    "MicrobeDyn": {
+        "CUE": 0.6,
+        "active_p": 0.1,
+        "active_th": 0.3,
+        "capacity": 0.5,
+        "cn": 6,
+        "cn_f": 14,
+        "drought_p": 0.2,
+        "drought_th": 0.85,
+        "exudates_cn": 15,
+        "exudation": 0.4,
+        "exudation_dev": false,
+        "km": 0.01,
+        "km_oxy": 0.045,
+        "necro_am": 0.9,
+        "oxyConRate": 2.3,
+        "r_death": 0.037,
+        "r_growth": 0.05,
+        "r_maint": 0.000144,
+        "spor_am": 0.1,
+        "temp_th": 0.21,
+        "till_d": 0.3,
+        "till_inact": 0.3
+    },
+    "Microbes": true,
+    "NitroCyc": {
+        "Kconst": 0.05,
+        "dissolve": 0.01,
+        "k_denitri": 6e-09,
+        "k_nitri": 5.787037e-08,
+        "n_atmo": 60
+    },
+    "Out_depth": {
+        "comp_list": [
+            "FOM",
+            "AOM",
+            "NAOM",
+            "SSOM",
+            "Microbes",
+            "SleepMicrobes",
+            "MinNitro",
+            "Waterpore"
+        ],
+        "depths": [
+            0,
+            10,
+            20,
+            30,
+            40
+        ],
+        "node_list": [
+            "CN",
+            "organic_Nitrogen"
+        ],
+        "profile_list": [
+            "Plant_biomass",
+            "Plant_biomass_SO",
+            "Dev_stage",
+            "Photosynthesis",
+            "Transpiration_act",
+            "Drought_stress",
+            "Nitrate_leach",
+            "RS_ratio"
+        ],
+        "sum": 20
+    },
+    "Output": "ww_mono",
+    "Profile": "BodiumOGS/Bodium/V140Soil.json",
+    "SomTurn": {
+        "FAT": 50,
+        "eta": 0.55,
+        "k_a": 1e-11,
+        "k_fom": 6.48e-06,
+        "k_m": 6.44e-08,
+        "k_ntoa": 1.157407e-06,
+        "k_s": 5e-09,
+        "pock_vol": 0.17,
+        "stab_am": 0.9,
+        "till_destab": 0
+    },
+    "UseManFile": true,
+    "WeatherFile": "BodiumOGS/Bodium/weather_muencheberg.json",
+    "timeX": {
+        "endTime": "31.12.2005 00:00:00",
+        "startTime": "01.01.1999 00:00:00",
+        "timeStep": 86400
+    }
+}

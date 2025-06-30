@@ -1,0 +1,664 @@
+{
+  "Events": [
+    {
+      "date": "1999-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "1999-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "1999-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "1999-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "1999-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "1999-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2000-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2000-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2000-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2000-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2000-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2000-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2001-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2001-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2001-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2001-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2001-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2001-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2002-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2002-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2002-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2002-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2002-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2002-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2003-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2003-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2003-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2003-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2003-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2003-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2004-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2004-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2004-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2004-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2004-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2004-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2005-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2005-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2005-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2005-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2005-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2005-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2006-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2006-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2006-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2006-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2006-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2006-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2007-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2007-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2007-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2007-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2007-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2007-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2008-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2008-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2008-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2008-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2008-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2008-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2009-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2009-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2009-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2009-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2009-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2009-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2010-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2010-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2010-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2010-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2010-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2010-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2011-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2011-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2011-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2011-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2011-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2011-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2012-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2012-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2012-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2012-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2012-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2012-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2013-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2013-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2013-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2013-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2013-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2013-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2014-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2014-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2014-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2014-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2014-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2014-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2015-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2015-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2015-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2015-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2015-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2015-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2016-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2016-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2016-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2016-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2016-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2016-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2017-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2017-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2017-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2017-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2017-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2017-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    },
+    {
+      "date": "2018-02-15",
+      "type": "Fertilizing",
+      "nh4_n": 118.8,
+      "nitrat_n": 118.8
+    },
+    {
+      "date": "2018-04-01",
+      "type": "Fertilizing",
+      "nh4_n": 140.4,
+      "nitrat_n": 140.4
+    },
+    {
+      "date": "2018-06-01",
+      "type": "Fertilizing",
+      "nh4_n": 86.4,
+      "nitrat_n": 86.4
+    },
+    {
+      "date": "2018-09-01",
+      "type": "Tillage",
+      "depth": 0.25
+    },
+    {
+      "date": "2018-09-15",
+      "type": "Tillage",
+      "depth": 0.05
+    },
+    {
+      "date": "2018-10-15",
+      "type": "Seed",
+      "plant": "winterwheat"
+    }
+  ]
+}

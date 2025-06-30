@@ -1,0 +1,19 @@
+{
+    "Crop_name": "rice",
+    "stomreg": rice,
+    "c4": rice,
+    "maint_ref": rice,
+    "assi_off": rice,
+    "assi_off_dev": rice,
+    "assi_leaf": rice,
+    "assi_leaf_dev": rice,
+    "assi_stem": rice,
+    "assi_stem_dev": rice,
+    "rel_weight_lvs": rice,
+    "lvs_dev_stage": rice,
+    "straw": rice,
+    "nitro_min_val": rice,
+    "nitro_min_dev": rice,
+    "nitro_opt_val": rice,
+    "nitro_opt_dev": rice"
+  }

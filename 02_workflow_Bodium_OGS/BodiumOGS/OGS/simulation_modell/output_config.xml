@@ -1,0 +1,22 @@
+        <outputs>
+            <output>
+                <type>VTK</type>
+                <prefix>{:meshname}</prefix>
+                <suffix>_ts_{:0>2timestep}_t_{:time}</suffix>
+                <timesteps>
+                    <pair>
+                        <repeat> 10 </repeat>
+                        <each_steps> 1 </each_steps>
+                    </pair>
+                </timesteps>
+                <meshes>
+                    <mesh>Subsurface</mesh>
+                </meshes>
+                <variables>
+                    <variable>p</variable>
+                    <variable>v</variable>
+                    <variable>VolumetricFlowRate</variable>
+                    <variable>MaterialIDs</variable>
+                </variables>
+            </output>
+        </outputs>
