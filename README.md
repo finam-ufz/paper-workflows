@@ -59,4 +59,4 @@ If you use these workflows or examples, please cite:
 
 ## License
 
-Distributed under the MIT License. See **LICENSE** for more information.
+Distributed under the LGPL License. See **LICENSE** for more information.
